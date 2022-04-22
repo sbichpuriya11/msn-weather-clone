@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/msn-weather-clone/static/css/main.a2d91e2c.chunk.css",
+    "main.js": "/msn-weather-clone/static/js/main.d858baaa.chunk.js",
+    "main.js.map": "/msn-weather-clone/static/js/main.d858baaa.chunk.js.map",
+    "runtime-main.js": "/msn-weather-clone/static/js/runtime-main.70780088.js",
+    "runtime-main.js.map": "/msn-weather-clone/static/js/runtime-main.70780088.js.map",
+    "static/css/2.6446b7cb.chunk.css": "/msn-weather-clone/static/css/2.6446b7cb.chunk.css",
+    "static/js/2.52600815.chunk.js": "/msn-weather-clone/static/js/2.52600815.chunk.js",
+    "static/js/2.52600815.chunk.js.map": "/msn-weather-clone/static/js/2.52600815.chunk.js.map",
+    "index.html": "/msn-weather-clone/index.html",
+    "static/css/2.6446b7cb.chunk.css.map": "/msn-weather-clone/static/css/2.6446b7cb.chunk.css.map",
+    "static/css/main.a2d91e2c.chunk.css.map": "/msn-weather-clone/static/css/main.a2d91e2c.chunk.css.map",
+    "static/js/2.52600815.chunk.js.LICENSE.txt": "/msn-weather-clone/static/js/2.52600815.chunk.js.LICENSE.txt",
+    "static/media/atanas-dzhingarov-bboaGO5h5jI-unsplash.1a2a9a4f.jpg": "/msn-weather-clone/static/media/atanas-dzhingarov-bboaGO5h5jI-unsplash.1a2a9a4f.jpg",
+    "static/media/sergei-a--heLWtuAN3c-unsplash.152abfa0.jpg": "/msn-weather-clone/static/media/sergei-a--heLWtuAN3c-unsplash.152abfa0.jpg",
+    "static/media/slick-theme.css": "/msn-weather-clone/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70780088.js",
+    "static/css/2.6446b7cb.chunk.css",
+    "static/js/2.52600815.chunk.js",
+    "static/css/main.a2d91e2c.chunk.css",
+    "static/js/main.d858baaa.chunk.js"
+  ]
+}
