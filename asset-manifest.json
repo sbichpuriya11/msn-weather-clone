@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/msn-weather-clone/static/css/main.a2d91e2c.chunk.css",
-    "main.js": "/msn-weather-clone/static/js/main.d858baaa.chunk.js",
-    "main.js.map": "/msn-weather-clone/static/js/main.d858baaa.chunk.js.map",
+    "main.js": "/msn-weather-clone/static/js/main.81674a98.chunk.js",
+    "main.js.map": "/msn-weather-clone/static/js/main.81674a98.chunk.js.map",
     "runtime-main.js": "/msn-weather-clone/static/js/runtime-main.70780088.js",
     "runtime-main.js.map": "/msn-weather-clone/static/js/runtime-main.70780088.js.map",
     "static/css/2.6446b7cb.chunk.css": "/msn-weather-clone/static/css/2.6446b7cb.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.6446b7cb.chunk.css",
     "static/js/2.52600815.chunk.js",
     "static/css/main.a2d91e2c.chunk.css",
-    "static/js/main.d858baaa.chunk.js"
+    "static/js/main.81674a98.chunk.js"
   ]
 }
